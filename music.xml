@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+	<artists>
+		<artist>
+			<name>Jon</name>
+			<surname>Doe</surname>
+			<artistic_nickname>JD</artistic_nickname>
+			<songs>
+				<song>
+					<type>Pop</type>
+					<title>MySong1</title>
+					<year>2019</year>
+					<publisher>TMT</publisher>
+				</song>
+				<song>
+					<type>Rock</type>
+					<title>MySong2</title>
+					<year>2020</year>
+					<publisher>TMTy</publisher>
+				</song>
+			</songs>
+		</artist>
+		<artist>
+			<name>Jason</name>
+			<surname>Frog</surname>
+			<artistic_nickname>DJDack</artistic_nickname>
+			<songs>
+				<song>
+					<type>Techno</type>
+					<title>MySong4</title>
+					<year>2017</year>
+					<publisher>NewRec</publisher>
+				</song>
+				<song>
+					<type>Techno</type>
+					<title>MySong7</title>
+					<year>2018</year>
+					<publisher>RecNew</publisher>
+				</song>
+				<song>
+					<type>Techno</type>
+					<title>MySong8</title>
+					<year>2014</year>
+					<publisher>RecNew5</publisher>
+				</song>
+			</songs>
+		</artist>
+		<artist>
+			<name>Gordon</name>
+			<surname>Sumner</surname>
+			<artistic_nickname>Sting</artistic_nickname>
+			<songs>
+				<song>
+					<type>Pop</type>
+					<title>Shape Of My Hear</title>
+					<year>1993</year>
+					<publisher>no data</publisher>
+				</song>
+			</songs>
+		</artist>
+	</artists>
+</music>
